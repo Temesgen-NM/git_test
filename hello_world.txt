@@ -1,1 +1,3 @@
-Hello this is my first file stage and commit
+Hello this is my first file stage and commit.
+
+second commit test with (core.editor "code --wait")
