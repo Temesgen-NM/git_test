@@ -1,3 +1,5 @@
 Hello this is my first file stage and commit.
 
 second commit test with (core.editor "code --wait")
+
+3rd commit, practicing a good commit,
